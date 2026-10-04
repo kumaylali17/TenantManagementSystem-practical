@@ -104,7 +104,7 @@
             android:id="@+id/tenantResultTextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@{tenant.summary()"
+            android:text="@{tenant.summary()}"
             android:hint="Saved tenant will appear here"
             android:textSize="18sp"
             android:padding="16dp"
